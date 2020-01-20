@@ -1,0 +1,11 @@
+C:\Users\Kasutaja\Desktop\MyPizzaShop\MyPizzaShop\bin\Debug\netcoreapp3.1\MyPizzaShop.exe
+C:\Users\Kasutaja\Desktop\MyPizzaShop\MyPizzaShop\bin\Debug\netcoreapp3.1\MyPizzaShop.deps.json
+C:\Users\Kasutaja\Desktop\MyPizzaShop\MyPizzaShop\bin\Debug\netcoreapp3.1\MyPizzaShop.runtimeconfig.json
+C:\Users\Kasutaja\Desktop\MyPizzaShop\MyPizzaShop\bin\Debug\netcoreapp3.1\MyPizzaShop.runtimeconfig.dev.json
+C:\Users\Kasutaja\Desktop\MyPizzaShop\MyPizzaShop\bin\Debug\netcoreapp3.1\MyPizzaShop.dll
+C:\Users\Kasutaja\Desktop\MyPizzaShop\MyPizzaShop\bin\Debug\netcoreapp3.1\MyPizzaShop.pdb
+C:\Users\Kasutaja\Desktop\MyPizzaShop\MyPizzaShop\obj\Debug\netcoreapp3.1\MyPizzaShop.csprojAssemblyReference.cache
+C:\Users\Kasutaja\Desktop\MyPizzaShop\MyPizzaShop\obj\Debug\netcoreapp3.1\MyPizzaShop.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\Desktop\MyPizzaShop\MyPizzaShop\obj\Debug\netcoreapp3.1\MyPizzaShop.AssemblyInfo.cs
+C:\Users\Kasutaja\Desktop\MyPizzaShop\MyPizzaShop\obj\Debug\netcoreapp3.1\MyPizzaShop.dll
+C:\Users\Kasutaja\Desktop\MyPizzaShop\MyPizzaShop\obj\Debug\netcoreapp3.1\MyPizzaShop.pdb
