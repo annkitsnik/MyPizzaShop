@@ -17,6 +17,8 @@ namespace Pizza
 
         static void Main(string[] args)
         {
+             Console.ForegroundColor = ConsoleColor.White;
+             Console.BackgroundColor = ConsoleColor.DarkBlue;
             
             Warehouse currentlyInStock = new Warehouse();
             //Create a Shopping Cart object
